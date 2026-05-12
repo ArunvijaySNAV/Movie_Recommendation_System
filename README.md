@@ -1,16 +1,16 @@
-#Movie Recommendation System
+# Movie Recommendation System
 
 A machine learning-based movie recommendation system implementing **three different recommendation techniques** to deliver personalized and intelligent movie suggestions.
 
-### 🚀 Recommendation Techniques
+### Recommendation Techniques
 - Popularity-Based Recommendation
 - Content-Based Filtering
 - Collaborative Filtering
 
-###Tech Stack
+### Tech Stack
 `Python` `Pandas` `DeepNote` `Scikit-Learn` `Surprise` `Machine Learning` `Jupyter Notebook`
 
-###Features
+### Features
 - Personalized movie recommendations
 - Similar movie suggestion engine
 - Trending & top-rated movie filtering
